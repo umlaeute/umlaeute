@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">uml&#228;ute&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 251, Total Commits  (last year) : 820, Total PRs: 584, Total Issues: 1397, Contributed to (last year): 58</desc>
+        <desc id="descId">Total Stars Earned: 252, Total Commits  (last year) : 820, Total PRs: 585, Total Issues: 1398, Contributed to (last year): 57</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 19.08261325958036;
+        stroke-dashoffset: 19.03626934104774;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >251</text>
+      >252</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >584</text>
+      >585</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >58</text>
+      >57</text>
     </g>
   </g>
     </svg>
